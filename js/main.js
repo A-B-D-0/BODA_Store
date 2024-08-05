@@ -9,7 +9,7 @@ document.getElementById('whatsappShareButton').addEventListener('click', functio
                   \n * دلوقتى تقدر تشحن جميع العاب الموبايل باسعار مميزه جدا 
                              \n * وجميع طرق الدفع القانونيه للتمتع بتجربه امنه 
                          \n   * اتمنى ذياره موقعنا فريقنا يسعده تقديم أفضل خدمة لك 
-                                   \n https://a-b-d-0.github.io/BODA_Store/
+                                   \n https://a-b-d-0.github.io/BODA_STORE/
            \n  * نشكر حضرتك لثقتك في متجرنا, ونتمنى أن نكون دائمًا عند حسن ظن حضرتك `; // 
     var phoneNumber = ""; // أضف رقم الهاتف إن وجد
 

@@ -1,0 +1,75 @@
+
+    /* ///////////////// NTH--Pubg ////////////// */
+
+    :nth-child(1 of .product) .image-uc img{
+        max-width: 200px;
+    }
+    :nth-child(2 of .product) .image-uc img{
+        max-width: 200px;
+    }
+    :nth-child(3 of .product) .image-uc img{
+        max-width: 200px;
+    }
+    :nth-child(4 of .product) .image-uc img{
+        max-width: 200px;
+    }
+    :nth-child(5 of .product) .image-uc img{
+        max-width: 200px;
+    }
+    :nth-child(6 of .product) .image-uc img{
+        max-width: 200px;
+    }
+    :nth-child(7 of .product) .image-uc img{
+        max-width: 200px;
+    }
+    :nth-child(8 of .product) .image-uc img{
+        max-width: 200px;
+    }
+    :nth-child(9 of .product) .image-uc img{
+        max-width: 200px;
+    }
+    :nth-child(10 of .product) .image-uc img{
+        max-width: 200px;
+    }
+    :nth-child(11 of .product) .image-uc img{
+        max-width: 200px;
+    }
+
+    @media only screen and (max-width: 600px) {
+        :nth-child(1 of .product) .image-uc img{
+            max-width: 80px;
+        }
+        :nth-child(2 of .product) .image-uc img{
+            max-width: 80px;
+        }
+        :nth-child(3 of .product) .image-uc img{
+            max-width: 80px;
+        }
+        :nth-child(4 of .product) .image-uc img{
+            max-width: 80px;
+        }
+        :nth-child(5 of .product) .image-uc img{
+            max-width: 80px;
+        }
+        :nth-child(6 of .product) .image-uc img{
+            max-width: 80px;
+        }
+        :nth-child(7 of .product) .image-uc img{
+            max-width: 80px;
+        }
+        :nth-child(8 of .product) .image-uc img{
+            max-width: 80px;
+        }
+        :nth-child(9 of .product) .image-uc img{
+            max-width: 80px;
+        }
+        :nth-child(10 of .product) .image-uc img{
+            max-width: 80px;
+        }
+        :nth-child(11 of .product) .image-uc img{
+            max-width: 80px;
+        }
+        
+    }
+
+    /* ////////////////////////////////////////// */

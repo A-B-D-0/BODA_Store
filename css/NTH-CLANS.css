@@ -1,0 +1,75 @@
+/* ////////////////////NTH-clash////////////// */
+
+
+:nth-child(1 of .product) .image-uc img{
+    max-width: 250px;
+    
+}
+:nth-child(2 of .product) .image-uc img{
+    max-width: 180px;
+}
+:nth-child(3 of .product) .image-uc img{
+    max-width: 180px;
+}
+:nth-child(4 of .product) .image-uc img{
+    max-width: 180px;
+}
+:nth-child(5 of .product) .image-uc img{
+    max-width: 180px;
+}
+:nth-child(6 of .product) .image-uc img{
+    max-width: 180px;
+}
+:nth-child(7 of .product) .image-uc img{
+    max-width: 180px;
+}
+
+:nth-child(1 of .product)  .title .imgProduct{
+    max-width: 25px;
+}
+:nth-child(2 of .product)  .title .imgProduct{
+    max-width: 25px;
+}
+:nth-child(3 of .product)  .title .imgProduct{
+    max-width: 25px;
+}
+:nth-child(4 of .product)  .title .imgProduct{
+    max-width: 25px;
+}
+:nth-child(5 of .product)  .title .imgProduct{
+    max-width: 25px;
+}
+:nth-child(6 of .product)  .title .imgProduct{
+    max-width: 25px;
+}
+:nth-child(7 of .product)  .title .imgProduct{
+    max-width: 25px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    :nth-child(1 of .product) .image-uc img{
+        max-width: 150px;
+    }
+    :nth-child(2 of .product) .image-uc img{
+        max-width: 80px;
+    }
+    :nth-child(3 of .product) .image-uc img{
+        max-width: 80px;
+    }
+    :nth-child(4 of .product) .image-uc img{
+        max-width: 80px;
+    }
+    :nth-child(5 of .product) .image-uc img{
+        max-width: 80px;
+    }
+    :nth-child(6 of .product) .image-uc img{
+        max-width: 80px;
+    }
+    :nth-child(7 of .product) .image-uc img{
+        max-width: 80px;
+    }
+    
+}
+
+/* ////////////////////////////////////////// */

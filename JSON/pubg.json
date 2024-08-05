@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "name": "60",
+        "price": "50",
+        "description": "UC",
+        "imgProduct":"image/UUCC.png",
+        "image": "image/pubg.jpg",
+        "descount" :"off 8%",
+        "category": "pubg"
+    },
+    
+    {
+        "id": 2,
+        "name": "120",
+        "price": "100",
+        "description": "UC",
+        "imgProduct":"image/UUCC.png",
+        "descount" :"off 8%",
+        "image": "image/pubg.jpg",
+        "category": "pubg"
+    },
+
+    {
+        "id": 3,
+        "name": " 325",
+        "price": 225,
+        "description": "UC",
+        "imgProduct":"image/UUCC.png",
+        "descount" :"off 8%",
+        "image": "image/pubg.jpg",
+        "category": "pubg"
+    },
+
+    {
+        "id": 4,
+        "name": " 355",
+        "price": 250,
+        "description": "UC",
+        "imgProduct":"image/UUCC.png",
+        "descount" :"off 8%",
+        "image": "image/pubg.jpg",
+        "category": "pubg"
+    },
+
+    {
+        "id": 5,
+        "name": " 660",
+        "price": 445,
+        "description": "UC",
+        "imgProduct":"image/UUCC.png",
+        "descount" :"off 8%",
+        "image": "image/pubg.jpg",
+        "category": "pubg"
+    },
+
+    {
+        "id": 6,
+        "name": " 720",
+        "price": 475,
+        "description": "UC",
+        "imgProduct":"image/UUCC.png",
+        "descount" :"off 8%",
+        "image": "image/pubg.jpg",
+        "category": "pubg"
+    },
+
+    {
+        "id": 7,
+        "name": " 1800",
+        "price": 1125,
+        "description": "UC",
+        "imgProduct":"image/UUCC.png",
+        "descount" :"off 8%",
+        "image": "image/pubg.jpg",
+        "category": "pubg"
+    },
+
+    {
+        "id": 8,
+        "name": " 1950",
+        "price": 1170,
+        "description": "UC",
+        "imgProduct":"image/UUCC.png",
+        "descount" :"off 8%",
+        "image": "image/pubg.jpg",
+        "category": "pubg"
+    },
+    {
+        "id": 9,
+        "name": " 3850",
+        "price": 2150,
+        "description": "UC",
+        "imgProduct":"image/UUCC.png",
+        "descount" :"off 8%",
+        "image": "image/pubg.jpg",
+        "category": "pubg"
+    },
+    {
+        "id": 10,
+        "name": " 4000",
+        "price": 2300,
+        "description": "UC",
+        "imgProduct":"image/UUCC.png",
+        "descount" :"off 8%",
+        "image": "image/pubg.jpg",
+        "category": "pubg"
+    },
+    {
+        "id": 11,
+        "name": " 8100",
+        "price": 4150,
+        "description": "UC",
+        "imgProduct":"image/UUCC.png",
+        "descount" :"off 8%",
+        "image": "image/pubg.jpg",
+        "category": "pubg"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": " التذكرة الذهبيه ",
+        "price": 380,
+        "description": "(c)",
+        "imgProduct":"",
+        "descount" :"off 8%",
+        "image": "image/ticket(c).jpg",
+        "category": "clashclans"
+    },
+    {
+        "id": 2,
+        "name": "96",
+        "price": 45,
+        "description": "Coin(c)",
+        "imgProduct":"image/CoinClash.png",
+        "descount" :"off 8%",
+        "image": "image/clash.jpg",
+        "category": "clashclans"
+    },
+    {
+        "id": 3,
+        "name": "600",
+        "price": 200,
+        "description": "Coin(c)",
+        "imgProduct":"image/CoinClash.png",
+        "descount" :"off 8%",
+        "image": "image/clash.jpg",
+        "category": "clashclans"
+    },
+    {
+        "id": 4,
+        "name": "1440",
+        "price": 400,
+        "description": "Coin(c)",
+        "imgProduct":"image/CoinClash.png",
+        "descount" :"off 8%",
+        "image": "image/clash.jpg",
+        "category": "clashclans"
+    },
+    {
+        "id": 5,
+        "name": "2000",
+        "price": 570,
+        "description": "Coin(c)",
+        "imgProduct":"image/CoinClash.png",
+        "descount" :"off 8%",
+        "image": "image/clash.jpg",
+        "category": "clashclans"
+    },
+    {
+        "id": 6,
+        "name": "3000",
+        "price": 750,
+        "description": "Coin(c)",
+        "imgProduct":"image/CoinClash.png",
+        "descount" :"off 8%",
+        "image": "image/clash.jpg",
+        "category": "clashclans"
+    },
+    {
+        "id": 7,
+        "name": "7800",
+        "price": 1750,
+        "description": "Coin(c)",
+        "imgProduct":"image/CoinClash.png",
+        "descount" :"off 8%",
+        "image": "image/clash.jpg",
+        "category": "clashclans"
+    }
+]

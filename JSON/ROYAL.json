@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "التذكرة الذهبيه",
+        "price": 330,
+        "description": "(R)",
+        "imgProduct":"",
+        "descount" :"off 8%",
+        "image": "image/ticketgold.jpg",
+        "category": "clashroyal"
+    },
+    {
+        "id": 2,
+        "name": " التذكرة الماسيه ",
+        "price": 660,
+        "description": "(R)",
+        "imgProduct":"",
+        "descount" :"off 8%",
+        "image": "image/ticketdiamond.jpg",
+        "category": "clashroyal"
+    },
+    {
+        "id": 3,
+        "name": "96",
+        "price": 45,
+        "description": "Coin(R)",
+        "imgProduct":"image/coinroyal.png",
+        "descount" :"off 8%",
+        "image": "image/clashroyal.jpg",
+        "category": "clashroyal"
+    },
+    {
+        "id": 4,
+        "name": "600",
+        "price": 200,
+        "description": "Coin(R)",
+        "imgProduct":"image/coinroyal.png",
+        "descount" :"off 8%",
+        "image": "image/clashroyal.jpg",
+        "category": "clashroyal"
+    },
+    {
+        "id": 5,
+        "name": "1440",
+        "price": 400,
+        "description": "Coin(R)",
+        "imgProduct":"image/coinroyal.png",
+        "descount" :"off 8%",
+        "image": "image/clashroyal.jpg",
+        "category": "clashroyal"
+    },
+    {
+        "id": 6,
+        "name": "2000",
+        "price": 570,
+        "description": "Coin(R)",
+        "imgProduct":"image/coinroyal.png",
+        "descount" :"off 8%",
+        "image": "image/clashroyal.jpg",
+        "category": "clashroyal"
+    },
+    {
+        "id": 7,
+        "name": "3000",
+        "price": 750,
+        "description": "Coin(R)",
+        "imgProduct":"image/coinroyal.png",
+        "descount" :"off 8%",
+        "image": "image/clashroyal.jpg",
+        "category": "clashroyal"
+    },
+    {
+        "id": 8,
+        "name": "7800",
+        "price": 1750,
+        "description": "Coin(R)",
+        "imgProduct":"image/coinroyal.png",
+        "descount" :"off 8%",
+        "image": "image/clashroyal.jpg",
+        "category": "clashroyal"
+    }
+]
+

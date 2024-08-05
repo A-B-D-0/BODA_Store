@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": " 110",
+        "price": 65,
+        "description": "Diamonds",
+        "imgProduct":"image/point.png",
+        "descount" :"off 8%",
+        "image": "image/frefire.jpg",
+        "category": "frefire"
+    },
+    {
+        "id": 2,
+        "name": " 220",
+        "price": 135,
+        "description": "Diamonds",
+        "imgProduct":"image/point.png",
+        "descount" :"off 8%",
+        "image": "image/frefire.jpg",
+        "category": "frefire"
+    },
+    {
+        "id": 3,
+        "name": " 580",
+        "price": 320,
+        "description": "Diamonds",
+        "imgProduct":"image/point.png",
+        "descount" :"off 8%",
+        "image": "image/frefire.jpg",
+        "category": "frefire"
+    },
+    {
+        "id": 4,
+        "name": " 1188",
+        "price": 590,
+        "description": "Diamonds",
+        "imgProduct":"image/point.png",
+        "descount" :"off 8%",
+        "image": "image/frefire.jpg",
+        "category": "frefire"
+    },
+    {
+        "id": 5,
+        "name": " 2420",
+        "price": 1100,
+        "description": "Diamonds",
+        "imgProduct":"image/point.png",
+        "descount" :"off 8%",
+        "image": "image/frefire.jpg",
+        "category": "frefire"
+    },
+    {
+        "id": 6,
+        "name": " 3600",
+        "price": 1700,
+        "description": "Diamonds",
+        "imgProduct":"image/point.png",
+        "descount" :"off 8%",
+        "image": "image/frefire.jpg",
+        "category": "frefire"
+    }
+]
